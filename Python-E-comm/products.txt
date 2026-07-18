@@ -1,0 +1,11 @@
+1,Laptop,Electronics,65000,10
+2,Mobile,Electronics,25000,15
+3,Earbuds,Electronics,2500,20
+4,T-Shirt,Mens Clothes,800,25
+5,Jeans,Mens Clothes,1500,15
+6,Saree,Womens Clothes,2500,12
+7,Kurti,Womens Clothes,1200,18
+8,Shoes,Footwear,3000,10
+9,Rice,Grocery,80,100
+10,Python Book,Books,600,20
+11,Shirt,Mens Clothes,2000,15
